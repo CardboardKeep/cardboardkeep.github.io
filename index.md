@@ -1,6 +1,6 @@
-<title>Calum Spring - Game Programmer and Producer</title>
+<title>Cardboard Keep - Independent game creators</title>
 
-<head><img=ck.png/></head>
+<head><img="ck.png"/></head>
 
 ### Hey there!
 ### We're a tiny game dev studio based in Canberra, Australia
