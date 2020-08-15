@@ -1,6 +1,6 @@
 <title>Cardboard Keep - Independent game creators</title>
 
-<head><img="ck.png"/></head>
+# ![Cardboard Keep](/ck.png "Cardboard Keep")
 
 ### Hey there!
 ### We're a tiny game dev studio based in Canberra, Australia
