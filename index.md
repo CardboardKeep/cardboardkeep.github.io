@@ -1,43 +1,37 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CardboardKeep/cardboardkeep.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Hey there!
+### We're a tiny game dev studio based in Canberra, Australia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Games
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+## [Witch Thief (2019)](http://witchthief.games)
+PC, Switch
 
-### Markdown
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ef6ZvVy7Hck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Attrition: Tactical Fronts (2018)](http://attrition.games)
+PC
 
-```markdown
-Syntax highlighted code block
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bkNkfyVxIrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+## [Puzzle Puppers (2017)](http://pupper.games)
+PC, Switch
 
-- Bulleted
-- List
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5ualuKXn2c4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Numbered
-2. List
+## [Warden: Melody of the Undergrowth (2016)](http://warden.games)
+PC
 
-**Bold** and _Italic_ and `Code` text
+### About Us
 
-[Link](url) and ![Image](src)
-```
+**Cardboard Keep is currently on an extended hiatus and has no projects in active development. All our existing games will remain available for the foreseeable future!**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Cardboard Keep is:
 
-### Jekyll Themes
+- Calum Spring - Co-founder, Lead Programmer and Business Developer
+- Timothy Bermanseder - Co-founder, Lead Artist and Technical Artist
+- Rob Krix - Co-founder, Rigger and Animator
+- Morgan Little - Writer and Narrative Designer
+- James Wakeham - Designer and Programmer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CardboardKeep/cardboardkeep.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
